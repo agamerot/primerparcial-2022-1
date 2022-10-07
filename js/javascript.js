@@ -27,7 +27,7 @@ const baseDeDatos = [
 ];
 
 let carrito = [];
-const divisa = '€';
+const divisa = 'COP';
 const DOMitems = document.querySelector('#items');
 const DOMcarrito = document.querySelector('#carrito');
 const DOMtotal = document.querySelector('#total');
